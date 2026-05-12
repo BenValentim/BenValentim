@@ -21,7 +21,7 @@ I have also led small development teams and participated in the design and archi
 
 ### Backend
 
-PHP • Laravel • Node.js • TypeScript • Java
+PHP • Laravel • Node.js • TypeScript • Java • Python • Machine Learning
 
 ### Frontend / Mobile
 
@@ -37,7 +37,7 @@ Docker • RabbitMQ • Firebase • GitHub Actions
 
 ### Integrations
 
-Payment Gateways • WhatsApp API • Push Notifications • Blockchain
+Payment Gateways • WhatsApp API • Push Notifications • Blockchain • Google APIs
 
 ---
 
